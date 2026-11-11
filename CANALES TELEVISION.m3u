@@ -3,6 +3,8 @@
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-name="America Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Ecuador",America Television
 http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vnC7J/3851e472fd.png" group-title="Entretenimiento",El Chavo del 8 24/7
+http://usuarios.club/usuarios/src3/ElChavoDel8/demoUwD/OV0.m3u8
 #EXTINF:-1 tvg-id="AustralTV.ec@SD" tvg-name="Austral TV" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="Ecuador",Austral TV
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-id="BacanTeVeo.ec@SD" tvg-name="Bacan Te Veo" tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador",Bacan Te Veo
