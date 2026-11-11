@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="95" tvg-name="America Estereo" tvg-logo="https://cdn.m3u.cl/logo/95_America_Estereo.png" group-title="Ecuador",America Estereo
+https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-name="America Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Ecuador",America Television
+http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:-1 tvg-id="AustralTV.ec@SD" tvg-name="Austral TV" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="Ecuador",Austral TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1 tvg-id="BacanTeVeo.ec@SD" tvg-name="Bacan Te Veo" tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador",Bacan Te Veo
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="Ecuador",CANAL DE LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
+#EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-name="Caracol" tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="Ecuador",Caracol
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="CiracuTV.ec@SD" tvg-name="Ciracu TV" tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="Ecuador",Ciracu TV
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-name="De Pelicula Latin America" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Ecuador",De Pelicula Latin America
+http://38.19.41.46:8081/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" group-title="Ecuador",Discovery Home & Health
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-name="Telemundo Internacional (1080p)" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="Faltante",Telemundo Internacional (1080p)
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Ecuador",Distrito Comedia
+http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="Ecotel TV" tvg-logo="https://cdn.m3u.cl/logo/99_Ecotel_TV.png" group-title="Ecuador",Ecotel TV
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-name="Ecuador TV" tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador",Ecuador TV
+http://45.224.97.181:9999/Gamavision/index.m3u8
+#EXTINF:-1 tvg-id="1567" tvg-name="Ecuavisa" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" group-title="Ecuador",Ecuavisa
+https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" tvg-name="Ecuavisa Quito" tvg-logo="https://cdn.m3u.cl/logo/1324_Ecuavisa.png" group-title="Ecuador",Ecuavisa Quito
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-name="El Chavo TV" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Ecuador",El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-name="Gamavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Gamavision
+http://181.78.211.244:8000/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-id="HechosEcuador.ec@SD" tvg-name="Hechos Ecuador" tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="Ecuador",Hechos Ecuador
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 tvg-id="LaNuevaRadioTV977.ec@SD" tvg-name="La Nueva Radio TV 97.7" tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Ecuador",La Nueva Radio TV 97.7
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="1323" tvg-name="Oromar" tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="Ecuador",Oromar
+https://streaming.oromartv.com/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="RCN.HD.co" tvg-name="RCN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest/scale-to-width-down/67?cb=20230702001117" group-title="Ecuador",RCN HD
+http://181.78.8.199:8000/play/a09l/index.m3u8
+#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Ecuador",Recuerdos Retro Radio
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1286" tvg-name="Red TVE Ventanas" tvg-logo="https://cdn.m3u.cl/logo/1286_Red_TVE_Ventanas.png" group-title="Ecuador",Red TVE Ventanas
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Ecuador",Retro Plus TV
+https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Ecuador",Retro Plus TV Señal 3
+https://srt01.logicahost.com.br/senal3/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="156" tvg-name="Rewind ✪" tvg-logo="https://cdn.m3u.cl/logo/156_Rewind.png" group-title="Ecuador",Rewind ✪
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="RTS.ec@SD" tvg-name="RTS" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador",RTS
+http://157.100.248.242:8080/RTSHD/index.m3u8
+#EXTINF:-1 tvg-id="RTU.ec@SD" tvg-name="RTU" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="Ecuador",RTU
+http://45.224.97.181:9999/RTU/index.m3u8
+#EXTINF:-1 tvg-id="TCTelevision.ec@SD" tvg-name="TC Television" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television
+http://45.224.97.181:9999/TC/index.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="Ecuador",Teleamazonas
+http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-name="Telemundo Internacional" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="Ecuador",Telemundo Internacional
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacífico" tvg-logo="https://colombia.mom-gmr.org/uploads/_processed_/b/c/csm_517-941_import_ecd4011511.png" group-title="Ecuador",Telepacífico
+https://live-edge-eu-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="TV Puruwa" tvg-logo="https://cdn.m3u.cl/logo/110_TV_Puruwa.png" group-title="Ecuador",TV Puruwa
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TVC.ec@SD" tvg-name="TVC" tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="Ecuador",TVC
+http://157.100.248.242:8080/TVCHD/index.m3u8
+#EXTINF:-1 tvg-id="VosyTV.ec@SD" tvg-name="Vos y TV" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Ecuador",Vos y TV
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 tvg-id="InfinitaTV.ec@SD" tvg-name="Infinita TV" tvg-logo="https://i.imgur.com/1nHxdkR.png" group-title="Peliculas",Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MarcaTV.ec@SD" tvg-name="Marca TV" tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Peliculas",Marca TV
+http://200.7.219.221:8088/live/livetv/index.m3u8
+#EXTINF:-1 tvg-id="PlanetaChannel.ec@SD" tvg-name="Planeta Channel" tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="Peliculas",Planeta Channel
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+#EXTINF:-1 tvg-id="RTRTV.ec@SD" tvg-name="RTRTV" tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Peliculas",RTRTV
+https://tv3ecuador.site/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="RTV.ec@SD" tvg-name="RTV Riobamba" tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Peliculas",RTV Riobamba
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-1 tvg-id="TVColorCanal36.ec@SD" tvg-name="TV Color Canal 36" tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Peliculas",TV Color Canal 36
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1 tvg-id="TvOro.ec@SD" tvg-name="TvOro" tvg-logo="https://i.imgur.com/9d02qUU.jpeg" group-title="Peliculas",TvOro
+http://45.187.0.19:9090/tvusa/index.m3u8
+#EXTINF:-1 tvg-id="Empenosalobestia.us@Spain" tvg-name="Empeños a lo bestia" group-title="Ecuador",Empeños a lo bestia
+https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Cine Acción" group-title="Peliculas",Pluto TV Cine Acción
+https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Cine Estelar" group-title="Peliculas",Pluto TV Cine Estelar
+https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+#EXTINF:-1 tvg-id="PlutoTVZombies.de@ES" tvg-name="Pluto TV Zombies" group-title="Peliculas",Pluto TV Zombies
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Peliculas",AMC Latin America
+http://45.162.193.35/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-name="Az Cinema" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Peliculas",Az Cinema
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/azcinema.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Peliculas",Cinecanal
+http://138.186.23.7:8082/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Peliculas",FX Latin America
+http://45.162.193.35/FX/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
+http://190.61.47.54:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-name="ESPN 4 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 Latin America
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD" tvg-name="ESPN 6" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-name="ESPN8" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Deportes",ESPN8
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us@Argentine" tvg-name="ESPN Extra Latin America" tvg-logo="https://i.imgur.com/8P8N2Ov.png" group-title="Deportes",ESPN Extra Latin America
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South" tvg-name="ESPN Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN Latin America
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" tvg-name="ESPN Latin America Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN Latin America Colombia
+http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico" tvg-name="ESPN Latin America Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN Latin America Mexico
+http://168.228.44.241:9997/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-name="ESPN Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium HD
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Deportes",Fox Sports 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@HD" tvg-name="Fox Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
+#EXTINF:-1 tvg-name="UFC" group-title="Deportes",UFC
+https://jmp2.uk/plu-67921b873de7c8cf94233f52.m3u8
